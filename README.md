@@ -45,8 +45,9 @@ A tarefa 2 foi necessário fazer scraping de um ambiente real, pegando determina
 
 ## Coletando os dados
 
-1. Deve-se baixar o chromedriver em seu computador para rodar o ScrapIMBD.
-2. Verifique se o seu navegador é da mesma versão que o executável chromedriver.
+1. Deve-se baixar o chromedriver em seu computador para rodar o ScrapIMBD. 
+2. Verifique se o seu navegador é da mesma versão que o executável chromedriver, caso não baixe a versão mais atualizada em https://chromedriver.chromium.org/downloads
+   conforme a versão atual de seu navegador.
 3. As bibliotecas selenium, request, shutil, os, json e re foram utilizadas no programa.
 4. O arquivo ScrapIMBD.ipynb coleta os dados dos 250 melhores filmes da página da IMBD.
 5. O arquvio ScrapIMBD.ipynb baixa todos os posters na pasta img_posters.
