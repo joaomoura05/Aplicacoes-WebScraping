@@ -14,7 +14,7 @@ As tarefas e arquivos estão em formato zip fixados no repositório.
 
 Como dito, na tarefa 1 foi necessário fazer scraping de um ambiente controlado e pegar os dados de todos os países contidos.
 
-## Executando o ambiente
+## Executando aplicação de teste
 
 Obs: é necessário ter o python 2.7 na máquina 
 
